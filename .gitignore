@@ -1,0 +1,55 @@
+# Android specific
+*.iml
+.gradle/
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/misc.xml
+.DS_Store
+
+# Other
+.externalNativeBuild
+.gradle
+/local.properties
+.cxx
+
+# Gradle
+/build
+/build/
+.idea/
+*.keystore
+gradle/wrapper/gradle-wrapper.properties
+
+# Jetpack Compose generated files
+composePreview/
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea
+*.ipr
+*.iws
+
+# Kotlin
+*.ktlint-cache
+
+# Android Studio Profiling
+captures/
+
+# Miscellaneous
+*.swp
+*.lock
+*~
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# Environment Files
+.env
+
+# End of file
